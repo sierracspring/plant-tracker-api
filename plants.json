@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Basil",
+    "category": "herb",
+    "sun": "full",
+    "water": "regularly"
+  },
+  {
+    "name": "Parsley",
+    "category": "herb",
+    "sun": "full",
+    "water": "regularly"
+  },
+  {
+    "name": "Oregano",
+    "category": "herb",
+    "sun": "full",
+    "water": "regularly"
+  }
+]
